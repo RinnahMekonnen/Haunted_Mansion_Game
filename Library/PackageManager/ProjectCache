@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638040641900000000
+      ticks: 638040654560000000
     m_Hash: 2545879120
   m_LockFileStatus:
     m_FilePath: /Users/jaankohm/Documents/GitHub/Haunted_Mansion_Game/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638040641980000000
+      ticks: 638040654570000000
     m_Hash: 2231393657
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}

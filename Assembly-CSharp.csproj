@@ -49,13 +49,13 @@
      <Compile Include="Assets/MetroidvaniaController/Scripts/KillZone.cs" />
      <Compile Include="Assets/MetroidvaniaController/Animation/Scripts/JumpStateBehaviour.cs" />
      <Compile Include="Assets/MetroidvaniaController/Scripts/Enemies/Ally.cs" />
+     <Compile Include="Assets/Scenes/ItemInventoryCode/Item.cs" />
      <Compile Include="Assets/MetroidvaniaController/Scripts/Player/ThrowableWeapon.cs" />
      <Compile Include="Assets/MetroidvaniaController/Scripts/Player/CharacterController2D.cs" />
      <Compile Include="Assets/MetroidvaniaController/Scripts/Enemies/Enemy.cs" />
      <Compile Include="Assets/MetroidvaniaController/Scripts/Environment/Grass.cs" />
      <Compile Include="Assets/MetroidvaniaController/Scripts/Environment/DestructibleObject.cs" />
      <Compile Include="Assets/MetroidvaniaController/Animation/Scripts/PlaySoundBehaviour.cs" />
-     <Compile Include="Assets/Scenes/ItemInventoryCode/Item.cs" />
      <Reference Include="UnityEngine">
      <HintPath>/Applications/Unity/Hub/Editor/2021.3.11f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
      </Reference>
